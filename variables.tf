@@ -52,7 +52,11 @@ variable "domain" {
 }
 variable "instance_shape" {
   type        = string
-  description = "VM Instance Shape for Private Instance"
+  description = "Instance Shape for ARM Instances"
+}
+variable "instance_shape_amd64" {
+  type        = string
+  description = "Instance Shape for AMD64 Instances"
 }
 variable "region" {
   type        = string
