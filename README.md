@@ -4,7 +4,7 @@
 ```
 OKE Kubernetes version: 1.27.2
 NodePool OS: Oracle Linux Server 8.8
-Image: Oracle-Linux-8.7-aarch64-2023.04.25-0-OKE-1.26.2-607
+Image: Oracle-Linux-8.8-aarch64-2023.08.31-0
 ```
 ### Infrastructure as Code - Terraform
 ```
